@@ -10,7 +10,7 @@ a=10
 b="5"
 print(a+b)
 
-# ValueError
+# Value Error
 n=int("hello")
 
 # EOFError
