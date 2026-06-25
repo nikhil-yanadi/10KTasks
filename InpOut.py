@@ -1,21 +1,21 @@
-# SyntaxError
-if True
-    print("Hello")
+# # SyntaxError
+# if True
+#     print("Hello")
 
-# NameError
-print(x)
+# # NameError
+# print(x)
 
-# TypeError
-a=10
-b="5"
-print(a+b)
+# # TypeError
+# a=10
+# b="5"
+# print(a+b)
 
-# Value Error
-n=int("hello")
+# # Value Error
+# n=int("hello")
 
-# EOFError
-name=input("Enter name: ")
+# # EOFError
+# name=input("Enter name: ")
 
-# IndentationError
-if True:
-    print("Hello")
+# # IndentationError
+# if True:
+#     print("Hello")
