@@ -1,0 +1,8 @@
+create table employee(emp_name char,location varchar(30));
+alter table employee add add_emp varchar(30);
+alter table employee add emp_id int first;
+alter table employee add email varchar(30) after emp_name;
+alter table employee modify column emp_name varchar(30);
+alter table employee add sid int, add department varchar(30);
+alter table employee rename column emp_name to employeeName;
+alter table employee drop column sid;
