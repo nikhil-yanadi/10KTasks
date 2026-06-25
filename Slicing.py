@@ -1,0 +1,11 @@
+n="Pythonprogramming"
+print(n[0:6])
+print(n[6:])
+print(n[:6])
+print(n[-11:])
+print(n[::2])
+print(n[1::2])
+print(n[::-1])
+print(n[2:10])
+print(n[-5:-1])
+print(n[3:15:2])
